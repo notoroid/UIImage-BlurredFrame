@@ -19,6 +19,8 @@ img = [img applyLightEffectAtFrame:frame];
 
 ```
 
+#Screenshots
+
 <img src="https://raw.github.com/Adrian2112/UIImage-BlurredFrame/master/demo_image.png" alt="UIImage-BlurredFrame demo" title="UIImage-BlurredFrame demo" style="display:block; margin: 10px auto 30px auto; align:center">
 
 
